@@ -1,5 +1,5 @@
 
-<div style='align:center'>
+
 ### Hi there
 
 
@@ -36,7 +36,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanol2&layout=compact&theme=transparent)
 
 
-</div>
+
 
 <!--
 
